@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987109002533",
+    "project_id": "pushnotifications-92f8f",
+    "storage_bucket": "pushnotifications-92f8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987109002533:android:2960edfbd585655c1bdecc",
+        "android_client_info": {
+          "package_name": "com.siddharaj.pushnotificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987109002533-rrtdnbtpsktr3vp9sf14mm4kqv8svt37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg0zhCZv2h_aNQJI6KyUlL-dZcTNd6uE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987109002533-rrtdnbtpsktr3vp9sf14mm4kqv8svt37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
